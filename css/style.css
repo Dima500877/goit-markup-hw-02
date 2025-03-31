@@ -135,7 +135,16 @@ ul{
 .nav-address:focus{
     color: #404bbf;
 }
-.button .text-button {
+
+.page-address{
+    font-style: normal;
+}
+.page-one{
+    background-color: #2e2f42;
+    
+}
+
+.button {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -143,12 +152,10 @@ ul{
     background-color: #4D5AE5;
     cursor: pointer;
     font-family: "Roboto", sans-serif;
-}
-
-.text-button {
     color: #ffffff;
-    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
-.page-address{
-    font-style: normal;
+.button:hover,
+.button:focus{
+    color: #404BBF;
 }
