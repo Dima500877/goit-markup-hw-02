@@ -6,7 +6,7 @@ body{
 ul{
     list-style-type: none;
 }
-.section1 .title-one{
+.page-one .title-one{
     color: #fff;
     font-size: 56px;
     line-height: 1.07;
@@ -138,3 +138,4 @@ ul{
 .team-ul{
     background-color: #FFFFFF;
 }
+
