@@ -110,7 +110,7 @@ ul{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.page-p-paragraph{
+.page-pparagraph{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -142,7 +142,7 @@ ul{
 .address-ul{
     font-style: normal;
 }
-.team-ul{
+.section-three .team-ul{
     background-color: #FFFFFF;
 }
 
