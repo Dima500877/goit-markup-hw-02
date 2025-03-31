@@ -6,11 +6,6 @@ body{
 ul{
     list-style-type: none;
 }
-.page-one{
-    color: #2e2f42;
-    font-family: "Roboto", sans-serif;
-
-}
 .title-one{
     color: #ffffff;
     font-family: "Roboto", sans-serif;
@@ -31,22 +26,7 @@ ul{
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.button {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    background-color: #4D5AE5;
-    cursor: pointer;
-}
-.text-button{
-    color: #ffffff;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-}
+
 .footer-logo .logo-title,
 .nav-logo .logo-first{ 
     font-family: "Raleway",sans-serif;
@@ -154,4 +134,22 @@ ul{
 .studio:hover,
 .studio:focus{
     color: #404bbf;
+}
+.nav-address:hover,
+.nav-address:focus{
+    color: #404bbf;
+}
+.button .text-button {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    background-color: #4D5AE5;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+
+.text-button {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
 }
