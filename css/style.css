@@ -151,3 +151,7 @@ ul{
     color: #434455;
     font-style: normal;
 }
+.studio:hover,
+.studio:focus{
+    color: #404bbf;
+}
